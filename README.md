@@ -30,7 +30,6 @@
 - [BambooFox](https://bamboofox.cs.nctu.edu.tw/)
 - [NSYSUISC](http://ctf.macaca.cool/)
 - [NTUSTISC](https://isc.taiwan-te.ch/scoreboard/)
-- 
 
 ## Contribution
 
